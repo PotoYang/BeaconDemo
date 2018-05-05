@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.richard.officenavigation"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk
+        android:minSdkVersion="18"
+        android:targetSdkVersion="21"
+        tools:ignore="GradleOverrides" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+
+    <application
+        android:name=".OfficeNaviApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/StyledIndicators"
+            android:windowSoftInputMode="stateHidden|adjustPan">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".CreateMapActivity"
+            android:label="@string/create_map"
+            android:windowSoftInputMode="stateHidden|adjustPan" />
+        <activity
+            android:name=".ManageMapActivity"
+            android:label="@string/action_manage_map"
+            android:theme="@style/ManageMap"
+            android:windowSoftInputMode="stateHidden|adjustPan" />
+        <activity
+            android:name=".ManageBeaconActivity"
+            android:label="@string/action_manage_beacon"
+            android:theme="@style/ManageMap"
+            android:windowSoftInputMode="stateHidden|adjustPan" />
+        <activity
+            android:name=".TrainNodesActivity"
+            android:label="@string/action_locate_training"
+            android:theme="@style/ManageMap"
+            android:windowSoftInputMode="stateHidden|adjustPan" />
+        <activity
+            android:name=".AverageTrainingActivity"
+            android:label="@string/action_locate_training"
+            android:theme="@style/ManageMap"
+            android:windowSoftInputMode="stateHidden|adjustPan" />
+        <activity
+            android:name=".ProbabilityTrainingActivity"
+            android:label="@string/action_locate_training"
+            android:theme="@style/ManageMap"
+            android:windowSoftInputMode="stateHidden|adjustPan" />
+        <activity
+            android:name=".ViewAverageTrainingResult"
+            android:label="@string/action_view_training_result"
+            android:theme="@style/ManageMap"
+            android:windowSoftInputMode="stateHidden|adjustPan" />
+        <activity
+            android:name=".ViewProbabilityTrainingResult"
+            android:label="@string/action_view_training_result"
+            android:theme="@style/ManageMap"
+            android:windowSoftInputMode="stateHidden|adjustPan" />
+
+        <!-- START: android-beacon-library need -->
+        <receiver android:name="org.altbeacon.beacon.startup.StartupBroadcastReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="org.altbeacon.beacon.service.BeaconService"
+            android:enabled="true"
+            android:exported="false"
+            android:isolatedProcess="false"
+            android:label="beacon" />
+        <service
+            android:name="org.altbeacon.beacon.BeaconIntentProcessor"
+            android:enabled="true" />
+        <!-- END: android-beacon-library need -->
+    </application>
+
+</manifest>

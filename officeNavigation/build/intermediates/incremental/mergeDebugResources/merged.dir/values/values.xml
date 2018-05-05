@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="boolean" name="centered"/>
+    <attr format="color" name="selectedColor"/>
+    <attr format="dimension" name="strokeWidth"/>
+    <attr format="color" name="unselectedColor"/>
+    <bool name="default_circle_indicator_centered">true</bool>
+    <bool name="default_circle_indicator_snap">false</bool>
+    <bool name="default_line_indicator_centered">true</bool>
+    <bool name="default_title_indicator_selected_bold">true</bool>
+    <bool name="default_underline_indicator_fades">true</bool>
+    <color name="black_text">#121</color>
+    <color name="blue_text">#3dd</color>
+    <color name="bright_blue">#3aa</color>
+    <color name="dark_gray_bk">#333</color>
+    <color name="dark_red_text">#8b0000</color>
+    <color name="default_circle_indicator_fill_color">#FFFFFFFF</color>
+    <color name="default_circle_indicator_page_color">#00000000</color>
+    <color name="default_circle_indicator_stroke_color">#FFDDDDDD</color>
+    <color name="default_line_indicator_selected_color">#FF33B5E5</color>
+    <color name="default_line_indicator_unselected_color">#FFBBBBBB</color>
+    <color name="default_title_indicator_footer_color">#FF33B5E5</color>
+    <color name="default_title_indicator_selected_color">#FFFFFFFF</color>
+    <color name="default_title_indicator_text_color">#BBFFFFFF</color>
+    <color name="default_underline_indicator_selected_color">#FF33B5E5</color>
+    <color name="manage_item_pressed">#aaa</color>
+    <color name="manage_title_bg">#efefcc</color>
+    <color name="selection_background_color">#FEBB20</color>
+    <color name="vpi__background_holo_dark">#ff000000</color>
+    <color name="vpi__background_holo_light">#fff3f3f3</color>
+    <color name="vpi__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="vpi__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="vpi__bright_foreground_holo_dark">@color/vpi__background_holo_light</color>
+    <color name="vpi__bright_foreground_holo_light">@color/vpi__background_holo_dark</color>
+    <color name="vpi__bright_foreground_inverse_holo_dark">
+        @color/vpi__bright_foreground_holo_light
+    </color>
+    <color name="vpi__bright_foreground_inverse_holo_light">
+        @color/vpi__bright_foreground_holo_dark
+    </color>
+    <color name="white_bk">#eee</color>
+    <color name="white_text">#eee</color>
+    <declare-styleable name="CirclePageIndicator"><attr name="centered"/><attr format="color" name="fillColor"/><attr format="color" name="pageColor"/><attr name="android:orientation"/><attr format="dimension" name="radius"/><attr format="boolean" name="snap"/><attr format="color" name="strokeColor"/><attr name="strokeWidth"/><attr name="android:background"/></declare-styleable>
+    <declare-styleable name="LinePageIndicator"><attr name="centered"/><attr name="unselectedColor"/><attr name="selectedColor"/><attr format="dimension" name="lineWidth"/><attr name="strokeWidth"/><attr format="dimension" name="gapWidth"/><attr name="android:background"/></declare-styleable>
+    <declare-styleable name="TitlePageIndicator"><attr format="dimension" name="clipPadding"/><attr format="color" name="footerColor"/><attr format="dimension" name="footerLineHeight"/><attr name="footerIndicatorStyle">
+            <enum name="none" value="0"/>
+            <enum name="triangle" value="1"/>
+            <enum name="underline" value="2"/>
+        </attr><attr format="dimension" name="footerIndicatorHeight"/><attr format="dimension" name="footerIndicatorUnderlinePadding"/><attr format="dimension" name="footerPadding"/><attr name="linePosition">
+            <enum name="bottom" value="0"/>
+            <enum name="top" value="1"/>
+        </attr><attr name="selectedColor"/><attr format="boolean" name="selectedBold"/><attr name="android:textColor"/><attr name="android:textSize"/><attr format="dimension" name="titlePadding"/><attr format="dimension" name="topPadding"/><attr name="android:background"/></declare-styleable>
+    <declare-styleable name="UnderlinePageIndicator"><attr format="boolean" name="fades"/><attr format="integer" name="fadeDelay"/><attr format="integer" name="fadeLength"/><attr name="selectedColor"/><attr name="android:background"/></declare-styleable>
+    <declare-styleable name="ViewPagerIndicator"><attr format="reference" name="vpiCirclePageIndicatorStyle"/><attr format="reference" name="vpiIconPageIndicatorStyle"/><attr format="reference" name="vpiLinePageIndicatorStyle"/><attr format="reference" name="vpiTitlePageIndicatorStyle"/><attr format="reference" name="vpiTabPageIndicatorStyle"/><attr format="reference" name="vpiUnderlinePageIndicatorStyle"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="default_circle_indicator_radius">3dp</dimen>
+    <dimen name="default_circle_indicator_stroke_width">1dp</dimen>
+    <dimen name="default_line_indicator_gap_width">4dp</dimen>
+    <dimen name="default_line_indicator_line_width">12dp</dimen>
+    <dimen name="default_line_indicator_stroke_width">1dp</dimen>
+    <dimen name="default_title_indicator_clip_padding">4dp</dimen>
+    <dimen name="default_title_indicator_footer_indicator_height">4dp</dimen>
+    <dimen name="default_title_indicator_footer_indicator_underline_padding">20dp</dimen>
+    <dimen name="default_title_indicator_footer_line_height">2dp</dimen>
+    <dimen name="default_title_indicator_footer_padding">7dp</dimen>
+    <dimen name="default_title_indicator_text_size">15dp</dimen>
+    <dimen name="default_title_indicator_title_padding">5dp</dimen>
+    <dimen name="default_title_indicator_top_padding">7dp</dimen>
+    <integer name="default_circle_indicator_orientation">0</integer>
+    <integer name="default_title_indicator_footer_indicator_style">2</integer>
+    <integer name="default_title_indicator_line_position">0</integer>
+    <integer name="default_underline_indicator_fade_delay">300</integer>
+    <integer name="default_underline_indicator_fade_length">400</integer>
+    <string name="about_software">关于办公室导航</string>
+    <string name="about_us">关于我们</string>
+    <string name="action_add_beacon">添加信标</string>
+    <string name="action_add_contact">添加联系人</string>
+    <string name="action_add_goods">添加物品</string>
+    <string name="action_add_map">新建地图</string>
+    <string name="action_add_node">添加节点</string>
+    <string name="action_add_path">添加路径</string>
+    <string name="action_check_in">考勤</string>
+    <string name="action_continue">继续</string>
+    <string name="action_del_beacon">删除信标</string>
+    <string name="action_del_node">删除节点</string>
+    <string name="action_del_path">删除路径</string>
+    <string name="action_done">完成</string>
+    <string name="action_filter">滤波</string>
+    <string name="action_locate_training">定位训练</string>
+    <string name="action_manage_beacon">管理信标</string>
+    <string name="action_manage_map">管理地图</string>
+    <string name="action_next_step">下一步</string>
+    <string name="action_prev_step">上一步</string>
+    <string name="action_search">搜索</string>
+    <string name="action_set_cur_map">使用该地图</string>
+    <string name="action_start">开始</string>
+    <string name="action_view_training_result">查看训练结果</string>
+    <string name="app_name">办公室导航</string>
+    <string name="beacon">信标</string>
+    <string name="beacon_label_major">major</string>
+    <string name="beacon_label_minor">minor</string>
+    <string name="beacon_label_uuid">UUID</string>
+    <string name="beacon_major">0000</string>
+    <string name="beacon_minor">0001</string>
+    <string name="beacon_uuid_part1">E2C56DB5</string>
+    <string name="beacon_uuid_part2">DFFB</string>
+    <string name="beacon_uuid_part3">48D2</string>
+    <string name="beacon_uuid_part4">B060</string>
+    <string name="beacon_uuid_part5">D0F5A71096E0</string>
+    <string name="beacon_uuid_separator">-</string>
+    <string name="boot_start">开机启动</string>
+    <string name="btn_retrain">重新训练</string>
+    <string name="btn_train">训练</string>
+    <string name="btn_view_result">查看结果</string>
+    <string name="cancel">取消</string>
+    <string name="cb_visible">节点可见</string>
+    <string name="change_train_direction">请先调整好训练方向！</string>
+    <string name="check_in">签到</string>
+    <string name="check_out">离开</string>
+    <string name="chk_update">检查更新</string>
+    <string name="confirm">确认</string>
+    <string name="create_map">创建地图</string>
+    <string name="delete">删除</string>
+    <string name="direction">方</string>
+    <string name="feedback">意见反馈</string>
+    <string name="find_office_desk">寻找办公桌</string>
+    <string name="gaussian_datas">高斯滤波结果</string>
+    <string name="invisible">不可见</string>
+    <string name="is_store_orgin_data">是否保存所有原始数据？</string>
+    <string name="kalman_datas">卡尔曼滤波结果</string>
+    <string name="leave_msg">给他留言</string>
+    <string name="logout">注销账户</string>
+    <string name="map_height_px">像素高度</string>
+    <string name="map_width_px">像素宽度</string>
+    <string name="mm_px_scale">尺寸像素比</string>
+    <string name="mm_px_scale_hint">单位(mm/px)</string>
+    <string name="msg_bluetooth_should_enable">请到设置中开启蓝牙，然后重启该应用程序</string>
+    <string name="nav_up">向上</string>
+    <string name="not_trained">未训练</string>
+    <string name="ori_east">东</string>
+    <string name="ori_north">北</string>
+    <string name="ori_northeast">东北</string>
+    <string name="ori_northwest">西北</string>
+    <string name="ori_sorth">南</string>
+    <string name="ori_sortheast">东南</string>
+    <string name="ori_sorthwest">西南</string>
+    <string name="ori_west">西</string>
+    <string name="raw_datas">原始数据</string>
+    <string name="receive_msg">接受消息通知</string>
+    <string name="result_datas">最终结果</string>
+    <string name="share">分享给朋友</string>
+    <string name="subtitle_heading">目前朝向：</string>
+    <string name="subtitle_name">名称：</string>
+    <string name="subtitle_position">位置：</string>
+    <string name="sure_direction">确认朝向</string>
+    <string name="title_beacon_info">信标信息</string>
+    <string name="title_bluetooth_not_enable">蓝牙未开启</string>
+    <string name="title_input_node_name">输入节点名称</string>
+    <string name="title_manage_account">管理账户</string>
+    <string name="title_node_info">节点信息</string>
+    <string name="title_path_from">选为起点</string>
+    <string name="title_path_to">选为终点</string>
+    <string name="title_select_method">选择操作</string>
+    <string name="title_selected_map">选择需要修改设置的地图</string>
+    <string name="title_selected_map_folder">选择地图所在目录</string>
+    <string name="title_set_map_size">设置所选地图的原始尺寸</string>
+    <string name="title_software_setting">软件设置</string>
+    <string name="title_training_count_down">剩余时间</string>
+    <string name="title_training_node">训练节点</string>
+    <string name="title_training_orientation">训练方向</string>
+    <string name="title_training_time">训练时间</string>
+    <string name="train_done">训练完成</string>
+    <string name="train_time">请输入训练时间！</string>
+    <string name="train_time_should_bigger_than_ten_sec">训练时间应不少于10秒！</string>
+    <string name="trained">已训练</string>
+    <string name="unit_sec">秒</string>
+    <string name="vibration">震动提醒</string>
+    <string name="visible">可见</string>
+    <string name="wavelet_datas">小波处理滤波结果</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="CustomTabPageIndicator" parent="Widget.TabPageIndicator">
+        <item name="android:background">@drawable/custom_tab_indicator</item>
+        <item name="android:textAppearance">@style/CustomTabPageIndicator.Text</item>
+        <item name="android:textColor">#FF555555</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:divider">@drawable/custom_tab_indicator_divider</item>
+        <item name="android:dividerPadding">10dp</item>
+        <item name="android:showDividers">middle</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:fadingEdge">horizontal</item>
+        <item name="android:fadingEdgeLength">8dp</item>
+    </style>
+    <style name="CustomTabPageIndicator.Text" parent="android:TextAppearance.Medium">
+        <item name="android:typeface">monospace</item>
+    </style>
+    <style name="ManageMap" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarWidgetTheme">@style/ManageMapActionBar</item>
+    </style>
+    <style name="ManageMapActionBar" parent="@android:style/Theme.Holo">
+        <item name="android:radioButtonStyle">@style/RadioButtonTheme</item>
+    </style>
+    <style name="RadioButtonTheme" parent="android:Widget.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/dropdown_checkbox</item>
+    </style>
+    <style name="StyledIndicators" parent="AppBaseTheme">
+        <item name="vpiTabPageIndicatorStyle">@style/CustomTabPageIndicator</item>
+    </style>
+    <style name="TextAppearance.TabPageIndicator" parent="Widget">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/vpi__dark_theme</item>
+    </style>
+    <style name="Theme.PageIndicatorDefaults" parent="android:Theme">
+        <item name="vpiIconPageIndicatorStyle">@style/Widget.IconPageIndicator</item>
+        <item name="vpiTabPageIndicatorStyle">@style/Widget.TabPageIndicator</item>
+    </style>
+    <style name="Widget"/>
+    <style name="Widget.IconPageIndicator" parent="Widget">
+        <item name="android:layout_marginLeft">6dp</item>
+        <item name="android:layout_marginRight">6dp</item>
+    </style>
+    <style name="Widget.TabPageIndicator" parent="Widget">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/vpi__tab_indicator</item>
+        <item name="android:paddingLeft">22dip</item>
+        <item name="android:paddingRight">22dip</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="android:textAppearance">@style/TextAppearance.TabPageIndicator</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:maxLines">1</item>
+    </style>
+</resources>

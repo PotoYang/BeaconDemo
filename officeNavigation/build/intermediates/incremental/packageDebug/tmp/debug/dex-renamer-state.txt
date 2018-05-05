@@ -1,0 +1,7 @@
+#Fri Apr 13 09:09:33 CST 2018
+base.0=D\:\\WorkSpace\\Android_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\WorkSpace\\Android_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\transforms\\dexMerger\\debug\\13

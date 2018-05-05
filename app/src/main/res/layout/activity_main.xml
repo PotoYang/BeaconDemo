@@ -1,18 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    android:orientation="vertical">
 
-    <TextView
+    <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:orientation="horizontal">
 
-</android.support.constraint.ConstraintLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btn_start"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="1.打开蓝牙"
+                android:visibility="visible" />
+
+            <Button
+                android:id="@+id/btn_public"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="2.设计蓝牙可见"
+                android:visibility="visible" />
+
+            <Button
+                android:id="@+id/btn_search"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="3.搜索蓝牙设备"
+                android:visibility="visible" />
+
+            <Button
+                android:id="@+id/btn_stop"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="4.关闭蓝牙"
+                android:visibility="visible" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btn_barchart"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="柱状图"
+                android:visibility="visible" />
+
+            <Button
+                android:id="@+id/btn_linechart"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="线形图"
+                android:visibility="visible" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <ListView
+        android:id="@+id/ls_blue"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

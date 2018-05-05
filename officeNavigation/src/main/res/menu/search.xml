@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.richard.officenavigation.MainActivity">
+
+    <item
+        android:id="@+id/action_search"
+        android:actionLayout="@layout/action_search"
+        android:icon="@drawable/action_search"
+        android:showAsAction="always|collapseActionView"
+        android:title="@string/action_search" />
+    <item
+        android:id="@+id/action_add_goods"
+        android:icon="@drawable/action_add_goods"
+        android:showAsAction="always"
+        android:title="@string/action_add_goods" />
+
+</menu>

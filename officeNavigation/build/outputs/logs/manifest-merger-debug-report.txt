@@ -1,203 +1,203 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:2:1-96:12
-INJECTED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:2:1-96:12
-INJECTED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:2:1-96:12
-INJECTED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:2:1-96:12
-INJECTED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:2:1-96:12
-INJECTED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:2:1-96:12
-INJECTED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:2:1-96:12
+ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:2:1-96:12
 	package
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:4:5-43
-		INJECTED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml
-		INJECTED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:4:5-43
+		INJECTED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml
+		INJECTED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:6:5-30
-		INJECTED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml
-		INJECTED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml
+		INJECTED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:3:5-51
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:3:5-51
 	xmlns:android
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:5:5-28
-		INJECTED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml
-		INJECTED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml
+		INJECTED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml
 uses-sdk
-ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:8:5-11:42
-INJECTED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:8:5-11:42
-INJECTED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:8:5-11:42
-INJECTED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:8:5-11:42
-INJECTED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:8:5-11:42
+ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:8:5-11:42
+INJECTED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:8:5-11:42
+INJECTED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:8:5-11:42
+INJECTED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:8:5-11:42
+INJECTED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:8:5-11:42
 	android:targetSdkVersion
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:10:9-38
-		INJECTED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml
-		INJECTED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml
+		INJECTED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml
 	tools:ignore
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:11:9-39
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:11:9-39
 	android:minSdkVersion
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:9:9-35
-		INJECTED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml
-		INJECTED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:9:9-35
+		INJECTED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml
+		INJECTED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:13:5-81
+ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:13:5-81
 	android:name
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:13:22-78
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:13:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:14:5-80
+ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:14:5-80
 	android:name
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:14:22-77
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:14:22-77
 uses-permission#android.permission.BLUETOOTH
-ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:15:5-68
+ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:15:5-68
 	android:name
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:15:22-65
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:15:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:16:5-74
+ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:16:5-74
 	android:name
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:16:22-71
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:16:22-71
 application
-ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:18:5-94:19
+ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:18:5-94:19
 	android:label
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:22:9-41
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:22:9-41
 	android:icon
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:21:9-45
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:21:9-45
 	android:allowBackup
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:20:9-35
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:20:9-35
 	android:theme
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:23:9-40
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:23:9-40
 	android:name
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:19:9-46
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:19:9-46
 activity#com.richard.officenavigation.MainActivity
-ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:24:9-34:20
+ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:24:9-34:20
 	android:label
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:26:13-45
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:26:13-45
 	android:windowSoftInputMode
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:28:13-64
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:28:13-64
 	android:theme
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:27:13-52
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:27:13-52
 	android:name
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:25:13-41
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:25:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:29:13-33:29
+ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:29:13-33:29
 action#android.intent.action.MAIN
-ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:30:17-69
+ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:30:25-66
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:30:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:32:17-77
+ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:32:17-77
 	android:name
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:32:27-74
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:32:27-74
 activity#com.richard.officenavigation.CreateMapActivity
-ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:35:9-38:67
+ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:35:9-38:67
 	android:label
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:37:13-47
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:37:13-47
 	android:windowSoftInputMode
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:38:13-64
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:38:13-64
 	android:name
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:36:13-46
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:36:13-46
 activity#com.richard.officenavigation.ManageMapActivity
-ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:39:9-43:67
+ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:39:9-43:67
 	android:label
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:41:13-54
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:41:13-54
 	android:windowSoftInputMode
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:43:13-64
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:43:13-64
 	android:theme
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:42:13-45
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:42:13-45
 	android:name
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:40:13-46
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:40:13-46
 activity#com.richard.officenavigation.ManageBeaconActivity
-ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:44:9-48:67
+ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:44:9-48:67
 	android:label
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:46:13-57
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:46:13-57
 	android:windowSoftInputMode
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:48:13-64
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:48:13-64
 	android:theme
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:47:13-45
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:47:13-45
 	android:name
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:45:13-49
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:45:13-49
 activity#com.richard.officenavigation.TrainNodesActivity
-ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:49:9-53:67
+ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:49:9-53:67
 	android:label
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:51:13-59
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:51:13-59
 	android:windowSoftInputMode
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:53:13-64
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:53:13-64
 	android:theme
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:52:13-45
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:52:13-45
 	android:name
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:50:13-47
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:50:13-47
 activity#com.richard.officenavigation.AverageTrainingActivity
-ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:54:9-58:67
+ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:54:9-58:67
 	android:label
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:56:13-59
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:56:13-59
 	android:windowSoftInputMode
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:58:13-64
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:58:13-64
 	android:theme
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:57:13-45
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:57:13-45
 	android:name
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:55:13-52
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:55:13-52
 activity#com.richard.officenavigation.ProbabilityTrainingActivity
-ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:59:9-63:67
+ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:59:9-63:67
 	android:label
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:61:13-59
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:61:13-59
 	android:windowSoftInputMode
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:63:13-64
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:63:13-64
 	android:theme
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:62:13-45
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:62:13-45
 	android:name
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:60:13-56
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:60:13-56
 activity#com.richard.officenavigation.ViewAverageTrainingResult
-ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:64:9-68:67
+ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:64:9-68:67
 	android:label
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:66:13-64
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:66:13-64
 	android:windowSoftInputMode
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:68:13-64
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:68:13-64
 	android:theme
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:67:13-45
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:67:13-45
 	android:name
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:65:13-54
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:65:13-54
 activity#com.richard.officenavigation.ViewProbabilityTrainingResult
-ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:69:9-73:67
+ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:69:9-73:67
 	android:label
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:71:13-64
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:71:13-64
 	android:windowSoftInputMode
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:73:13-64
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:73:13-64
 	android:theme
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:72:13-45
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:72:13-45
 	android:name
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:70:13-58
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:70:13-58
 receiver#org.altbeacon.beacon.startup.StartupBroadcastReceiver
-ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:76:9-82:20
+ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:76:9-82:20
 	android:name
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:76:19-87
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:76:19-87
 intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED+action:name:android.intent.action.BOOT_COMPLETED
-ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:77:13-81:29
+ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:77:13-81:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:78:17-79
+ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:78:17-79
 	android:name
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:78:25-76
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:78:25-76
 action#android.intent.action.ACTION_POWER_CONNECTED
-ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:79:17-87
+ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:79:17-87
 	android:name
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:79:25-84
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:79:25-84
 action#android.intent.action.ACTION_POWER_DISCONNECTED
-ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:80:17-90
+ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:80:17-90
 	android:name
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:80:25-87
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:80:25-87
 service#org.altbeacon.beacon.service.BeaconService
-ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:84:9-89:38
+ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:84:9-89:38
 	android:enabled
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:86:13-35
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:86:13-35
 	android:label
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:89:13-35
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:89:13-35
 	android:exported
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:87:13-37
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:87:13-37
 	android:isolatedProcess
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:88:13-44
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:88:13-44
 	android:name
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:85:13-70
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:85:13-70
 service#org.altbeacon.beacon.BeaconIntentProcessor
-ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:90:9-92:38
+ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:90:9-92:38
 	android:enabled
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:92:13-35
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:92:13-35
 	android:name
-		ADDED from D:\WorkSpace\Android_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:91:13-70
+		ADDED from D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\AndroidManifest.xml:91:13-70

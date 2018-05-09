@@ -1,33 +1,38 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\WorkSpace\\Android_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "outputFile": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13_values-w820dp-v13.arsc.flat",
             "map": [
                 {
-                    "source": "D:\\WorkSpace\\Android_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\values\\dimens.xml",
+                    "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "from": {
-                        "startLines": "3,4",
-                        "startColumns": "4,4",
-                        "startOffsets": "89,147",
-                        "endColumns": "57,55",
-                        "endOffsets": "142,198"
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "312",
+                        "endColumns": "57",
+                        "endOffsets": "365"
                     },
                     "to": {
-                        "startLines": "54,55",
-                        "startColumns": "4,4",
-                        "startOffsets": "4707,4765",
-                        "endColumns": "57,55",
-                        "endOffsets": "4760,4816"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
                     }
-                },
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
                 {
-                    "source": "D:\\WorkSpace\\Android_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\values\\strings.xml",
+                    "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "107,108,16,6,8,9,11,13,5,94,17,12,14,23,24,18,15,10,21,20,7,22,93,19,4,95,69,70,62,68,71,63,64,65,66,67,72,104,76,75,74,38,61,120,39,40,110,37,79,44,116,109,35,98,57,119,97,36,113,32,31,33,34,30,43,59,83,82,86,85,81,88,87,84,96,105,100,111,80,54,55,115,51,29,47,112,50,48,49,27,42,41,28,103,91,52,89,90,118,114,117,58,92,106,56,99",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "4612,4663,660,163,261,311,410,508,116,4079,711,459,557,1032,1075,762,606,359,930,881,216,979,4035,818,73,4126,3032,3085,2668,2986,3138,2719,2774,2825,2876,2927,3184,4478,3327,3286,3237,1714,2624,5244,1752,1792,4747,1675,3391,1993,5021,4705,1581,4256,2497,5184,4207,1632,4885,1433,1387,1480,1526,1311,1955,2579,3566,3526,3689,3644,3486,3779,3734,3605,4164,4522,4357,4791,3435,2362,2408,4973,2257,1250,2055,4831,2208,2112,2161,1138,1896,1833,1191,4422,3937,2308,3824,3884,5140,4925,5061,2539,3996,4569,2458,4306",
+                        "startOffsets": "4719,4771,676,169,269,320,421,521,121,4173,728,471,571,1055,1099,780,621,369,951,901,223,1001,4128,837,77,4221,3101,3155,2730,3054,3209,2782,2838,2890,2942,2994,3256,4582,3403,3361,3311,1752,2685,5364,1791,1832,4857,1712,3470,2037,5137,4814,1616,4354,2554,5303,4304,1668,4998,1465,1418,1513,1560,1341,1998,2638,3649,3608,3775,3729,3567,3867,3821,3689,4260,4627,4457,4902,3515,2416,2463,5088,2308,1279,2102,4943,2258,2160,2210,1165,1938,1874,1219,4525,4028,2360,3913,3974,5258,5039,5178,2597,4088,4675,2514,4405",
                         "endColumns": "50,41,50,52,49,47,48,48,46,46,50,48,48,42,44,55,53,50,48,48,44,52,43,62,42,37,52,52,50,45,45,54,50,50,50,58,51,43,44,40,48,37,43,61,39,40,43,38,43,37,39,41,50,49,41,59,48,42,39,46,45,45,54,75,37,43,38,39,44,44,39,44,44,38,42,46,45,39,50,45,49,47,50,60,56,53,48,48,46,52,58,62,58,55,58,52,59,52,43,47,78,39,38,42,38,50",
-                        "endOffsets": "4658,4700,706,211,306,354,454,552,158,4121,757,503,601,1070,1115,813,655,405,974,925,256,1027,4074,876,111,4159,3080,3133,2714,3027,3179,2769,2820,2871,2922,2981,3231,4517,3367,3322,3281,1747,2663,5301,1787,1828,4786,1709,3430,2026,5056,4742,1627,4301,2534,5239,4251,1670,4920,1475,1428,1521,1576,1382,1988,2618,3600,3561,3729,3684,3521,3819,3774,3639,4202,4564,4398,4826,3481,2403,2453,5016,2303,1306,2107,4880,2252,2156,2203,1186,1950,1891,1245,4473,3991,2356,3879,3932,5179,4968,5135,2574,4030,4607,2492,4352"
+                        "endOffsets": "4765,4808,722,217,314,363,465,565,163,4215,774,515,615,1093,1139,831,670,415,995,945,263,1049,4167,895,115,4254,3149,3203,2776,3095,3250,2832,2884,2936,2988,3048,3303,4621,3443,3397,3355,1785,2724,5421,1826,1868,4896,1746,3509,2070,5172,4851,1662,4399,2591,5358,4348,1706,5033,1507,1459,1554,1610,1412,2031,2677,3683,3643,3815,3769,3602,3907,3861,3723,4298,4669,4498,4937,3561,2457,2508,5131,2354,1335,2154,4992,2302,2204,2252,1213,1992,1932,1273,4576,4082,2408,3968,4022,5297,5082,5252,2632,4122,4713,2548,4451"
                     },
                     "to": {
                         "startLines": "74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179",
@@ -38,14 +43,14 @@
                     }
                 },
                 {
-                    "source": "D:\\WorkSpace\\Android_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\values\\styles.xml",
+                    "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "6,15,35,49,23,27,31,19",
                         "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "245,569,1402,2176,885,1066,1230,730",
+                        "startOffsets": "251,584,1437,2225,908,1093,1261,749",
                         "endLines": "12,17,47,51,25,29,33,21",
                         "endColumns": "12,12,12,12,12,12,12,12",
-                        "endOffsets": "531,724,2170,2325,1060,1224,1396,879"
+                        "endOffsets": "543,741,2217,2376,1085,1253,1429,900"
                     },
                     "to": {
                         "startLines": "180,187,190,203,206,209,212,215",
@@ -57,48 +62,31 @@
                     }
                 },
                 {
-                    "source": "D:\\WorkSpace\\Android_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\values\\dimens.xml",
                     "from": {
-                        "startLines": "16,21,30,41,47,17,18,22,28,29,33,40,42,50,20,23,26,25,27,32,36,37,34,38,43,44,45,19,35,39,48,49",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "667,1005,1552,2288,2626,730,802,1065,1402,1476,1681,2213,2355,2836,943,1139,1273,1208,1336,1614,1906,1984,1754,2074,2426,2491,2559,874,1827,2143,2689,2762",
-                        "endColumns": "62,59,60,66,62,71,71,73,73,75,72,74,70,78,61,67,62,64,65,66,77,89,72,68,64,67,65,68,78,69,72,73",
-                        "endOffsets": "725,1060,1608,2350,2684,797,869,1134,1471,1547,1749,2283,2421,2910,1000,1202,1331,1268,1397,1676,1979,2069,1822,2138,2486,2554,2620,938,1901,2208,2757,2831"
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
                     },
                     "to": {
-                        "startLines": "6,7,8,9,10,16,17,18,19,20,21,22,23,24,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "248,311,371,432,499,780,852,924,998,1072,1148,1221,1296,1367,4821,4883,4951,5014,5079,5145,5212,5290,5380,5453,5522,5587,5655,5721,5790,5869,5939,6012",
-                        "endColumns": "62,59,60,66,62,71,71,73,73,75,72,74,70,78,61,67,62,64,65,66,77,89,72,68,64,67,65,68,78,69,72,73",
-                        "endOffsets": "306,366,427,494,557,847,919,993,1067,1143,1216,1291,1362,1441,4878,4946,5009,5074,5140,5207,5285,5375,5448,5517,5582,5650,5716,5785,5864,5934,6007,6081"
+                        "startLines": "54,55",
+                        "startColumns": "4,4",
+                        "startOffsets": "4707,4765",
+                        "endColumns": "57,55",
+                        "endOffsets": "4760,4816"
                     }
                 },
                 {
-                    "source": "D:\\WorkSpace\\Android_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "6,7,15,12,9,3,4,16,13,8",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "158,200,418,333,283,56,107,461,377,241",
-                        "endColumns": "41,40,42,43,47,50,49,60,39,41",
-                        "endOffsets": "195,236,456,372,326,102,152,517,412,278"
-                    },
-                    "to": {
-                        "startLines": "11,12,13,14,15,25,26,27,40,41",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "562,604,645,688,732,1446,1497,1547,2320,2360",
-                        "endColumns": "41,40,42,43,47,50,49,60,39,41",
-                        "endOffsets": "599,640,683,727,775,1492,1542,1603,2355,2397"
-                    }
-                },
-                {
-                    "source": "D:\\WorkSpace\\Android_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\values\\vpi__styles.xml",
+                    "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\values\\vpi__styles.xml",
                     "from": {
                         "startLines": "36,17,22,41,24",
                         "startColumns": "4,4,4,4,4",
-                        "startOffsets": "1560,668,922,1761,957",
+                        "startOffsets": "1596,685,944,1802,981",
                         "endLines": "39,20,22,44,34",
                         "endColumns": "12,12,33,12,12",
-                        "endOffsets": "1755,916,951,1946,1554"
+                        "endOffsets": "1794,936,973,1990,1588"
                     },
                     "to": {
                         "startLines": "218,222,226,227,231",
@@ -110,14 +98,14 @@
                     }
                 },
                 {
-                    "source": "D:\\WorkSpace\\Android_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\values\\vpi__colors.xml",
+                    "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\values\\vpi__colors.xml",
                     "from": {
                         "startLines": "16,17,20,21,18,19,22,25",
                         "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "667,729,978,1056,792,885,1135,1257",
+                        "startOffsets": "683,746,998,1077,810,904,1157,1282",
                         "endLines": "16,17,20,21,18,19,24,27",
                         "endColumns": "61,62,77,78,92,92,12,12",
-                        "endOffsets": "724,787,1051,1130,880,973,1252,1374"
+                        "endOffsets": "740,804,1071,1151,898,992,1276,1401"
                     },
                     "to": {
                         "startLines": "28,29,30,31,32,33,34,37",
@@ -129,13 +117,13 @@
                     }
                 },
                 {
-                    "source": "D:\\WorkSpace\\Android_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\values\\vpi__attrs.xml",
+                    "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\values\\vpi__attrs.xml",
                     "from": {
                         "startLines": "32,33,34,35",
                         "startColumns": "4,4,4,4",
-                        "startOffsets": "1503,1549,1598,1649",
+                        "startOffsets": "1535,1582,1632,1684",
                         "endColumns": "45,48,50,50",
-                        "endOffsets": "1544,1593,1644,1695"
+                        "endOffsets": "1576,1626,1678,1730"
                     },
                     "to": {
                         "startLines": "2,3,4,5",
@@ -144,45 +132,55 @@
                         "endColumns": "44,47,49,49",
                         "endOffsets": "95,143,193,243"
                     }
-                }
-            ]
-        },
-        {
-            "outputFile": "D:\\WorkSpace\\Android_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
-            "map": [
+                },
                 {
-                    "source": "D:\\WorkSpace\\Android_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\values-v14\\styles.xml",
+                    "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\values\\vpi__defaults.xml",
                     "from": {
-                        "startLines": "7",
-                        "startColumns": "4",
-                        "startOffsets": "220",
-                        "endLines": "9",
-                        "endColumns": "12",
-                        "endOffsets": "366"
+                        "startLines": "16,21,30,41,47,17,18,22,28,29,33,40,42,50,20,23,26,25,27,32,36,37,34,38,43,44,45,19,35,39,48,49",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "683,1026,1582,2329,2673,747,820,1087,1430,1505,1714,2253,2397,2886,963,1162,1299,1233,1363,1646,1942,2021,1788,2112,2469,2535,2604,893,1862,2182,2737,2811",
+                        "endColumns": "62,59,60,66,62,71,71,73,73,75,72,74,70,78,61,67,62,64,65,66,77,89,72,68,64,67,65,68,78,69,72,73",
+                        "endOffsets": "741,1081,1638,2391,2731,814,887,1156,1499,1576,1782,2323,2463,2960,1020,1225,1357,1293,1424,1708,2015,2106,1856,2176,2529,2598,2665,957,1936,2247,2805,2880"
                     },
                     "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "4",
-                        "endColumns": "12",
-                        "endOffsets": "201"
+                        "startLines": "6,7,8,9,10,16,17,18,19,20,21,22,23,24,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "248,311,371,432,499,780,852,924,998,1072,1148,1221,1296,1367,4821,4883,4951,5014,5079,5145,5212,5290,5380,5453,5522,5587,5655,5721,5790,5869,5939,6012",
+                        "endColumns": "62,59,60,66,62,71,71,73,73,75,72,74,70,78,61,67,62,64,65,66,77,89,72,68,64,67,65,68,78,69,72,73",
+                        "endOffsets": "306,366,427,494,557,847,919,993,1067,1143,1216,1291,1362,1441,4878,4946,5009,5074,5140,5207,5285,5375,5448,5517,5582,5650,5716,5785,5864,5934,6007,6081"
+                    }
+                },
+                {
+                    "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "6,7,15,12,9,3,4,16,13,8",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "164,207,433,345,292,59,111,477,390,249",
+                        "endColumns": "41,40,42,43,47,50,49,60,39,41",
+                        "endOffsets": "201,243,471,384,335,105,156,533,425,286"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15,25,26,27,40,41",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "562,604,645,688,732,1446,1497,1547,2320,2360",
+                        "endColumns": "41,40,42,43,47,50,49,60,39,41",
+                        "endOffsets": "599,640,683,727,775,1492,1542,1603,2355,2397"
                     }
                 }
             ]
         },
         {
-            "outputFile": "D:\\WorkSpace\\Android_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "outputFile": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
             "map": [
                 {
-                    "source": "D:\\WorkSpace\\Android_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\values-v11\\styles.xml",
+                    "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\values-v11\\styles.xml",
                     "from": {
                         "startLines": "6",
                         "startColumns": "4",
-                        "startOffsets": "177",
+                        "startOffsets": "183",
                         "endLines": "8",
                         "endColumns": "12",
-                        "endOffsets": "309"
+                        "endOffsets": "317"
                     },
                     "to": {
                         "startLines": "2",
@@ -196,23 +194,25 @@
             ]
         },
         {
-            "outputFile": "D:\\WorkSpace\\Android_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13_values-w820dp-v13.arsc.flat",
+            "outputFile": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
             "map": [
                 {
-                    "source": "D:\\WorkSpace\\Android_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\values-v14\\styles.xml",
                     "from": {
                         "startLines": "7",
                         "startColumns": "4",
-                        "startOffsets": "305",
-                        "endColumns": "57",
-                        "endOffsets": "358"
+                        "startOffsets": "227",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "375"
                     },
                     "to": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
-                        "endColumns": "57",
-                        "endOffsets": "108"
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
                     }
                 }
             ]

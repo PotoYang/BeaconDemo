@@ -62,7 +62,7 @@ public class BarchartTestActivity extends AppCompatActivity implements SurfaceHo
 
     private void beginScale(BluetoothClient mClient) {
         SearchRequest request = new SearchRequest.Builder()
-                .searchBluetoothLeDevice(3000, 1)   // 先扫BLE设备3次，每次3s
+                .searchBluetoothLeDevice(1000, 20)   // 先扫BLE设备1次，每次3s
                 .build();
 
         mClient.search(request, new SearchResponse() {
@@ -74,8 +74,9 @@ public class BarchartTestActivity extends AppCompatActivity implements SurfaceHo
             @Override
             public void onDeviceFounded(SearchResult device) {
                 Beacon beacon = new Beacon(device.scanRecord);
-                if (device.getAddress().contains("AC:23:3F:20:")) {
+                if (device.getAddress().equals("AC:23:3F:20:4A:20")) {
                     rssiMap.put(device.getAddress(), device.rssi);
+                    System.out.println(device.rssi);
                 }
             }
 
@@ -118,7 +119,7 @@ public class BarchartTestActivity extends AppCompatActivity implements SurfaceHo
                             canvas.drawLine(cx + cx * i, cy, cx + cx * i, cy - dis * 250, paint);
                             paint.setStrokeWidth(1.0F);
                             canvas.drawText(address, cx + cx * i - 100, cy, paint);
-                            canvas.drawText(String.valueOf(dis) + ","+iRssi, cx + cx * i - 100, cy - dis * 125, paint);
+                            canvas.drawText(String.valueOf(dis) + "," + iRssi, cx + cx * i - 100, cy - dis * 125, paint);
 //                            drawLine(float startX, float startY, float stopX, float stopY, Paintpaint)
                             //画线，参数一起始点的x轴位置，参数二起始点的y轴位置，参数三终点的x轴水平位置，参数四y轴垂直位置，最后一个参数为Paint 画刷对象。
                         } else {
@@ -127,7 +128,7 @@ public class BarchartTestActivity extends AppCompatActivity implements SurfaceHo
                             canvas.drawLine(cx + cx * (i - 2), cy + cy, cx + cx * (i - 2), cy + cy - dis * 250, paint);
                             paint.setStrokeWidth(1.0F);
                             canvas.drawText(address, cx + cx * (i - 2) - 100, cy + cy, paint);
-                            canvas.drawText(String.valueOf(dis)+ ","+iRssi, cx + cx * (i - 2) - 100, cy + cy - dis * 125, paint);
+                            canvas.drawText(String.valueOf(dis) + "," + iRssi, cx + cx * (i - 2) - 100, cy + cy - dis * 125, paint);
                         }
                         break;
                     }

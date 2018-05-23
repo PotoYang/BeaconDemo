@@ -29,4 +29,5 @@ dependencies {
     implementation 'com.jakewharton:butterknife:8.8.1'
     annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
     implementation 'com.inuker.bluetooth:library:1.4.0'
+    implementation 'com.github.lecho:hellocharts-library:1.5.8@aar'
 }

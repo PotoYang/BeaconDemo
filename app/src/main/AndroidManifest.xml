@@ -18,7 +18,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".BarchartTestActivity">
+        <activity android:name=".HellochartActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -27,6 +27,7 @@
         </activity>
         <activity android:name=".MainActivity" />
         <activity android:name=".TestActivity" />
+        <activity android:name=".BarchartTestActivity" />
 
         <service android:name=".service.BluetoothService" />
         <service android:name="com.inuker.bluetooth.library.BluetoothService" />

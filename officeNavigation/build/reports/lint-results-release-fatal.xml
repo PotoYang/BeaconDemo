@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="4" by="lint 3.1.0">
+
+    <issue
+        id="ResourceType"
+        severity="Fatal"
+        message="Expected resource of type id"
+        category="Correctness"
+        priority="7"
+        summary="Wrong Resource Type"
+        explanation="Ensures that resource id&apos;s passed to APIs are of the right type; for example, calling `Resources.getColor(R.string.name)` is wrong."
+        errorLine1="        mBubble.setId(1);"
+        errorLine2="                      ~">
+        <location
+            file="D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\java\com\richard\officenavigation\callout\BaseMapCallout.java"
+            line="49"
+            column="23"/>
+    </issue>
+
+    <issue
+        id="ResourceType"
+        severity="Fatal"
+        message="Expected resource of type id"
+        category="Correctness"
+        priority="7"
+        summary="Wrong Resource Type"
+        explanation="Ensures that resource id&apos;s passed to APIs are of the right type; for example, calling `Resources.getColor(R.string.name)` is wrong."
+        errorLine1="        mNub.setId(2);"
+        errorLine2="                   ~">
+        <location
+            file="D:\WorkSpace\AndroidStudio_workspace\BeaconDemo\officeNavigation\src\main\java\com\richard\officenavigation\callout\BaseMapCallout.java"
+            line="54"
+            column="20"/>
+    </issue>
+
+</issues>

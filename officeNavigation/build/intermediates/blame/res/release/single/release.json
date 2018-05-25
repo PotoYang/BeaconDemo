@@ -1,0 +1,570 @@
+[
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_pic_mr_yang.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\pic_mr_yang.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_vpi__tab_selected_focused_holo.9.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-hdpi\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable_btn_possitive.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable\\btn_possitive.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_vpi__tab_unselected_holo.9.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-hdpi\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\layout_callout_add_beacon.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\layout\\callout_add_beacon.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_pic_mr_fan.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\pic_mr_fan.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_pic_miss_li.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\pic_miss_li.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_vpi__tab_unselected_focused_holo.9.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-hdpi\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable_params_setter_edittext_bg.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable\\params_setter_edittext_bg.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_action_add_goods.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\action_add_goods.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\layout_dialog_select_method.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\layout\\dialog_select_method.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_tab_bottom_homepage_selected.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\tab_bottom_homepage_selected.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable_borderless_button.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable\\borderless_button.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_check_out_selected.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\check_out_selected.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_find_path_start.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\find_path_start.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_manage_log_out.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\manage_log_out.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\layout_fragment_search.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_pic_mr_li.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\pic_mr_li.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable_tab_bottom_homepage.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable\\tab_bottom_homepage.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_action_search.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\action_search.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_manage_aboutus.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\manage_aboutus.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_custom_tab_indicator_unselected_focused.9.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\custom_tab_indicator_unselected_focused.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable_tab_bottom_manage.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable\\tab_bottom_manage.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_vpi__tab_selected_pressed_holo.9.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-mdpi\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_manage_check_update.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\manage_check_update.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_find_office_desk_selected.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\find_office_desk_selected.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_manage_jump.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\manage_jump.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_dropdown_checkbox_checked.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\dropdown_checkbox_checked.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_navigation_up.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\navigation_up.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_action_add_map.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\action_add_map.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_vpi__tab_unselected_focused_holo.9.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_btn_possitive_down.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\btn_possitive_down.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable_leave_msg.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable\\leave_msg.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_manage_checkbox_checked.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\manage_checkbox_checked.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\layout_action_search.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\layout\\action_search.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_action_manage_map.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\action_manage_map.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_action_add_contact.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\action_add_contact.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\layout_callout_train_node.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\layout\\callout_train_node.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_vpi__tab_selected_pressed_holo.9.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-hdpi\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_vpi__tab_unselected_pressed_holo.9.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-hdpi\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_action_add_path.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\action_add_path.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_manage_feedback.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\manage_feedback.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable_tab_bottom_search.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable\\tab_bottom_search.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_pic_miss_liu.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\pic_miss_liu.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\layout_list_item_barchart.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\layout\\list_item_barchart.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_vpi__tab_selected_focused_holo.9.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\layout_fragment_manage.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\layout\\fragment_manage.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_action_add_node.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\action_add_node.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_map_node_trained.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\map_node_trained.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\layout_dialog_dir_chooser.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\layout\\dialog_dir_chooser.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_action_del_path.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\action_del_path.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_tab_bottom_homepage_normal.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\tab_bottom_homepage_normal.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_find_path_end.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\find_path_end.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\layout_simple_gradview_item.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\layout\\simple_gradview_item.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\layout_fragment_homepage.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\layout\\fragment_homepage.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_dropdown_checkbox_unchecked.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\dropdown_checkbox_unchecked.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\layout_dialog_check_in_or_out.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\layout\\dialog_check_in_or_out.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_vpi__tab_selected_pressed_holo.9.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_vpi__tab_selected_holo.9.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-hdpi\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_action_manage_beacon.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\action_manage_beacon.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable_action_manage_path.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable\\action_manage_path.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_map_beacon_icon.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\map_beacon_icon.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_custom_tab_indicator_selected.9.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\custom_tab_indicator_selected.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_compass.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-hdpi\\img_compass.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_check_in_unselected.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\check_in_unselected.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable_check_out.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable\\check_out.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\layout_dialog_compass.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\layout\\dialog_compass.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_manage_share.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\manage_share.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_custom_tab_indicator_selected_pressed.9.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\custom_tab_indicator_selected_pressed.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_custom_tab_indicator_unselected_pressed.9.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\custom_tab_indicator_unselected_pressed.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_visible_node.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\visible_node.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable_vpi__tab_indicator.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_tab_bottom_manage_normal.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\tab_bottom_manage_normal.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\menu_manage_beacon.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\menu\\manage_beacon.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable_custom_tab_indicator.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable\\custom_tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable_manage_btn.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable\\manage_btn.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\menu_create_map.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\menu\\create_map.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_leave_msg_unselected.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\leave_msg_unselected.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_pic_mr_luo.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\pic_mr_luo.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable_find_office_desk.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable\\find_office_desk.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_custom_tab_indicator_divider.9.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\custom_tab_indicator_divider.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_leave_msg_selected.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\leave_msg_selected.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_tab_bottom_search_selected.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\tab_bottom_search_selected.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_manage_checkbox_unchecked.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\manage_checkbox_unchecked.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_check_in_selected.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\check_in_selected.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\layout_activity_view_training_result.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\layout\\activity_view_training_result.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\menu_search.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\menu\\search.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_navigation_up.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-mdpi\\navigation_up.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_tab_bottom_manage_selected.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\tab_bottom_manage_selected.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\color_vpi__dark_theme.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_find_office_desk_unselected.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\find_office_desk_unselected.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_manage_notification_method.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\manage_notification_method.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_tab_bottom_search_normal.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\tab_bottom_search_normal.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\layout_dialog_map_chooser.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\layout\\dialog_map_chooser.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_vpi__tab_selected_holo.9.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-mdpi\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\menu_map.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\menu\\map.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_folder_chooser_item.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\folder_chooser_item.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\layout_folder_list_item.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\layout\\folder_list_item.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_vpi__tab_unselected_pressed_holo.9.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-mdpi\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_btn_possitive_up.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\btn_possitive_up.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_navigation_up.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-hdpi\\navigation_up.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\menu_manage_map.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\menu\\manage_map.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_manage_boot_start.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\manage_boot_start.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\layout_dialog_map_params_setter.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\layout\\dialog_map_params_setter.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable_action_manage_node.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable\\action_manage_node.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable_tab_bottom_map.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable\\tab_bottom_map.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_pic_mr_zhang.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\pic_mr_zhang.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_action_prev_step.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\action_prev_step.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable_manage_checkbox.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable\\manage_checkbox.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable_callout_edittext_bg.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable\\callout_edittext_bg.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_check_out_unselected.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\check_out_unselected.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable_dropdown_checkbox.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable\\dropdown_checkbox.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_tab_bottom_map_selected.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\tab_bottom_map_selected.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable_check_in.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable\\check_in.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_pic_mr_ma.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\pic_mr_ma.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_action_del_node.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\action_del_node.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_tab_bottom_map_normal.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\tab_bottom_map_normal.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_action_next_step.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\action_next_step.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_manage_recv_msg.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\manage_recv_msg.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_action_check_in.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\action_check_in.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_manage_title_bg.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\manage_title_bg.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_vpi__tab_unselected_pressed_holo.9.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\menu_homepage.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\menu\\homepage.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_custom_tab_indicator_selected_focused.9.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\custom_tab_indicator_selected_focused.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_action_locate_training.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\action_locate_training.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_custom_tab_indicator_unselected.9.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\custom_tab_indicator_unselected.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_vpi__tab_unselected_focused_holo.9.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-mdpi\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\layout_activity_train_node.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\layout\\activity_train_node.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\layout_dialog_info.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\layout\\dialog_info.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_vpi__tab_unselected_holo.9.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\layout_fragment_map.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\layout\\fragment_map.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_map_node_icon.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\map_node_icon.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\color_vpi__light_theme.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_vpi__tab_selected_holo.9.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-xhdpi\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\layout_list_item_linechart.xml.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\layout\\list_item_linechart.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_vpi__tab_unselected_holo.9.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-mdpi\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_vpi__tab_selected_focused_holo.9.png.flat",
+        "source": "D:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\src\\main\\res\\drawable-mdpi\\vpi__tab_selected_focused_holo.9.png"
+    }
+]

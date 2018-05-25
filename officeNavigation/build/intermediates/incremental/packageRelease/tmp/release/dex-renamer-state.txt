@@ -1,0 +1,4 @@
+#Fri May 25 11:10:37 CST 2018
+base.0=D\:\\WorkSpace\\AndroidStudio_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

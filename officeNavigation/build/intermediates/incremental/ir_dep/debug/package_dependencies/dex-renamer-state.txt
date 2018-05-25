@@ -1,4 +1,0 @@
-#Fri Apr 13 09:09:32 CST 2018
-base.0=D\:\\WorkSpace\\Android_workspace\\BeaconDemo\\officeNavigation\\build\\intermediates\\transforms\\dexMerger\\debug\\11
-path.0=classes.dex
-renamed.0=classes.dex
